@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(0, 43, 28);
+}
+header{
+    text-align: center;
+}
+h1{
+    margin: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+}
+
+section{
+    text-align: center;
+    width: 800px;
+    height: 500px;
+    background-color: white;
+    box-shadow: 3px 0 3px 0;
+    border-radius: 10px;
+    margin: 70px 0 0 480px;
+}
+#msg{
+    padding: 20px;
+}
+
+#imagemContainer{
+    margin: 50px 0 0 0;
+}
