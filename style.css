@@ -22,7 +22,7 @@ section{
     background-color: white;
     box-shadow: 3px 0 3px 0;
     border-radius: 10px;
-    margin: 70px 0 0 480px;
+    margin: 70px 0 0 250px;
 }
 #msg{
     padding: 20px;
@@ -30,4 +30,19 @@ section{
 
 #imagemContainer{
     margin: 50px 0 0 0;
+}
+@media (max-width:920px){
+    section{
+        text-align: center;
+        width: 500px;
+        height: 500px;
+        background-color: white;
+        box-shadow: 3px 0 3px 0;
+        border-radius: 10px;
+        margin: 70px 0 0 100px;
+    }
+    #imagem{
+        width: 200px;
+        height: 200px;
+    }
 }
