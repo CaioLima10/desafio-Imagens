@@ -1,7 +1,7 @@
 ## meu primeiro projetinho
 
 um projeto basico, onde a imagem troca decorrer do horario de brasilia.
-tem três imagem diferenciando o horario das 00:00 as 12:00 / 13:00 as 18:00 e horario nortuno.
+tem três imagens diferenciando os horários das 00:00 as 12:00 / 13:00 as 18:00 e horário nortuno.
 
 ## 💻 Tecnologias 
 
